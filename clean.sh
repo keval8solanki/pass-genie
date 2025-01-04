@@ -1,0 +1,1 @@
+go clean -modcache && go mod download && go mod tidy
